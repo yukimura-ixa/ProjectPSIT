@@ -13,9 +13,12 @@
 * 9 ธันวาคม 2563 คัดเลือกสิ่งที่จะทำกราฟนำเสนอและเพิ่มกราฟแท่งการฆ่าตัวตายแต่ละช่วงอายุและกราฟการฆ่าตัวตายในแต่ละ Gen ของมนุษย์
 * 10 ธันวาคม 2563 แสดง Dashboard ในเว็บ 
 
-**วิธีใช้งานDashboard:**
+**วิธีใช้งาน Dashboard:**
 * ติดตั้ง Package ที่ Anaconda Prompt ดังนี้
   * pip install dash
   * pip install plotly
   * pip install dash-bootstrap-components
   * pip install jupyter_dash
+* Clone ไฟล์ project-dash.ipynb
+* Run All Cell ในไฟล์ project-dash.ipynb
+* นำ Host ที่อยู่ในบรรทัดสุดท้ายไปใส่ใน Browser ของคุณ
