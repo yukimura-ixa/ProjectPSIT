@@ -14,7 +14,7 @@
 * 10 ธันวาคม 2563 แสดง Dashboard ในเว็บ 
 
 **วิธีใช้งาน Dashboard:**
-* ติดตั้ง Package ที่ **Anaconda Prompt** ดังนี้
+* ติดตั้ง Package ที่ **Terminal** **Anaconda Prompt** ดังนี้
   * pip install dash
   * pip install plotly
   * pip install dash-bootstrap-components
