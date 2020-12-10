@@ -20,5 +20,5 @@
   * pip install dash-bootstrap-components
   * pip install jupyter_dash
 * Clone ไฟล์ **project-dash.ipynb**
-* เปิดไฟล์ project-dash.ipynb และ **Run all cell**
+* เปิดไฟล์ project-dash.ipynb และ **Run all cells**
 * นำ Host ที่อยู่ในบรรทัดสุดท้ายไปใส่ใน Browser ของคุณ
