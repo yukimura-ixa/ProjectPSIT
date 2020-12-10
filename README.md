@@ -14,11 +14,11 @@
 * 10 ธันวาคม 2563 แสดง Dashboard ในเว็บ 
 
 **วิธีใช้งาน Dashboard:**
-* ติดตั้ง Package ที่ Anaconda Prompt ดังนี้
+* ติดตั้ง Package ที่ **Anaconda Prompt** ดังนี้
   * pip install dash
   * pip install plotly
   * pip install dash-bootstrap-components
   * pip install jupyter_dash
-* Clone ไฟล์ project-dash.ipynb
-* Run All Cell ในไฟล์ project-dash.ipynb
+* Clone ไฟล์ **project-dash.ipynb**
+* เปิดไฟล์ project-dash.ipynb และ Run all cell
 * นำ Host ที่อยู่ในบรรทัดสุดท้ายไปใส่ใน Browser ของคุณ
