@@ -17,7 +17,7 @@
 **วิธีใช้งาน Dashboard:**
 * Clone ไฟล์ **project-dash.ipynb**
 * เปิดไฟล์ project-dash.ipynb และ **Run all cells**
-* โดย Cell แรกจะเป็นตัวติดตั้งPackageต่างๆ
+* โดย Cell แรกจะเป็นตัวติดตั้ง **Package** ต่างๆ
   * plotly
   * jupyter_dash
   * pandas
