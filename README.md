@@ -11,14 +11,16 @@
 * 13 พฤศจิกายน 2563 เพิ่มกราฟสถิติการฆ่าตัวตายของทั่วโลกในแต่ละปี
 * 26 พฤจิกายน 2563 เพิ่มแผนภาพวงกลมเกี่ยวกับสถิติทั่วโลกของเพศที่ฆ่าตัวตายระหว่างชายและหญิง
 * 9 ธันวาคม 2563 คัดเลือกสิ่งที่จะทำกราฟนำเสนอและเพิ่มกราฟแท่งการฆ่าตัวตายแต่ละช่วงอายุและกราฟการฆ่าตัวตายในแต่ละ Gen ของมนุษย์
-* 10 ธันวาคม 2563 คัดเลือกกราฟและนำมาแสดงเป็น Dashboard ในเว็บ 
+* 10 ธันวาคม 2563 คัดเลือกกราฟและนำมาแสดงเป็น Dashboard ในเว็บ
+* 12 ธันวาคม 2563 เพิ่มการอธิบายแนวโน้มในแต่ละกราฟ
 
 **วิธีใช้งาน Dashboard:**
-* ติดตั้ง Package ที่ **Terminal** หรือ **Anaconda Prompt** ดังนี้
-  * pip install dash
-  * pip install plotly
-  * pip install dash-bootstrap-components
-  * pip install jupyter_dash
 * Clone ไฟล์ **project-dash.ipynb**
 * เปิดไฟล์ project-dash.ipynb และ **Run all cells**
+* โดย Cell แรกจะเป็นตัวติดตั้งPackageต่างๆ
+  * plotly
+  * jupyter_dash
+  * pandas
+  * dash
+  * dash-bootstrap-components
 * นำ Host ที่อยู่ในบรรทัดสุดท้ายไปใส่ใน Browser ของคุณ
