@@ -4,3 +4,5 @@ pandas
 textblob
 plotly-express
 voila
+jupyter_dash
+dash
