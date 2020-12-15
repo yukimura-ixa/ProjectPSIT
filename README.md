@@ -15,6 +15,10 @@
 * 10 ธันวาคม 2563 คัดเลือกกราฟและนำมาแสดงเป็น Dashboard ในเว็บ
 * 12 ธันวาคม 2563 เพิ่มการอธิบายแนวโน้มในแต่ละกราฟ
 
+### แหล่งข้อมูล
+* [Suicide Rates Overview 1985 to 2016](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
+* ขนาด 2.58 MB
+
 ### วิธีใช้งาน Dashboard
 * Clone ไฟล์ **project-dash.ipynb**
 * เปิดไฟล์ project-dash.ipynb และ **Run all cells**
