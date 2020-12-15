@@ -27,8 +27,8 @@
 * เข้าไปที่ลิ้งก์ http://127.0.0.1:8050/ ในเบราว์เซอร์
 
 ### ผู้จัดทำ
-*นาย ณภัทร พ่อบุตรดี 63070046 [artist0123](https://github.com/artist0123)
-*นาย ณภัทร อังธนากุล 63070047 [63070047](https://github.com/63070047)
-*นาย ณัชพล นันทสันติ 63070049 [ipin0917826334](https://github.com/ipin0917826334)
-*นาย ณัฐพล วังคำ 63070056 [oberghub](https://github.com/oberghub)
-*นางสาว อนัญญา จินาพงศ์ 63070182 [ananya63070182](https://github.com/ananya63070182)
+* นาย ณภัทร พ่อบุตรดี 63070046 [artist0123](https://github.com/artist0123)
+* นาย ณภัทร อังธนากุล 63070047 [63070047](https://github.com/63070047)
+* นาย ณัชพล นันทสันติ 63070049 [ipin0917826334](https://github.com/ipin0917826334)
+* นาย ณัฐพล วังคำ 63070056 [oberghub](https://github.com/oberghub)
+* นางสาว อนัญญา จินาพงศ์ 63070182 [ananya63070182](https://github.com/ananya63070182)
